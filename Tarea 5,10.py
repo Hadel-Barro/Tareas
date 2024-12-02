@@ -41,3 +41,5 @@ plt.show()
 # La diferencia es que una spline cubica si o si va a necesitar sobre 3 puntos  para construir una funcion cubica 
 # que pase por todos ellos. El usar 2 puntos nos limita para reflejar la función, tener 4 puntos nos permite visualizar 
 # mucho mejor como se veria la función original.
+
+# Nota: 70

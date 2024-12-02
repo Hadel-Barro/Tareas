@@ -61,3 +61,5 @@ plt.show()
 #La matriz A va a afectar la orientación de los ejes principales de la 
 #elipse, el tamaño y forma del contorno
 #El vector b no cambiara la geometria, solo desplazara la elipse.
+
+#NOTA: 70

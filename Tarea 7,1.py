@@ -158,3 +158,5 @@ print (resultados_adaptativa, resultados_scipy)
 # Por lo que el proceso se calcula un serieT veces para cada presicion, guardandose el tiempo que le toma en calcular esa cantidad de veces
 # en tiempos_adaptativa y tiempos_scipy, a su vez se guarda el promedio de todas las iteraciones del valor de la integral resultados_adaptativa
 # y resultados_scipy
+
+# NOTA: 70

@@ -106,3 +106,5 @@ plt.title('Comparación de métodos RK4 y RKF')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+# NOTA: 70 NO ABUSAR DE IA

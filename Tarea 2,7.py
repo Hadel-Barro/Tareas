@@ -18,3 +18,5 @@ todas_rojas = {e for e in espacio_muestral if all(bola == 'roja' for bola in e)}
 probabilidad = prob(todas_rojas, espacio_muestral)
 
 print(f"La probabilidad de que todas las bolas extraídas sean rojas: {probabilidad:.5f}")
+
+#Nota: 70

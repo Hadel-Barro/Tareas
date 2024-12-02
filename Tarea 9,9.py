@@ -49,3 +49,5 @@ for n in range(7):
     plt.legend()
     plt.grid(True)
     plt.show()
+
+#NOTA: 70 NO ABUSAR DE IA

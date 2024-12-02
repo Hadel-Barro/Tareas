@@ -29,3 +29,5 @@ resultado_2 = H_x <= H_xy
 print(H_x, H_y, H_xy, resultado_1, resultado_2)
 
 # En el caso que no sean independientes, el primero sería False. La segunda siempre se cumple.
+
+#Nota: 70 Se cumple en ambos casos

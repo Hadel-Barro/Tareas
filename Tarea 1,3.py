@@ -3,4 +3,4 @@ while True:
     if user_input.lower() == "salir":
         print("Finalizando el programa..")
         break
-    
+# Nota: 70    

@@ -26,3 +26,5 @@ print(f"Error estimado: {error}")
 print(f"Ruido Δn: {delta_n}")
 
 # No creo que sea necesario cambiar el paso, segun los resultados se ve bien el que estamos usando que es 0.02
+
+# NOTA: 70

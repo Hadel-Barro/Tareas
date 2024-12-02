@@ -111,3 +111,5 @@ plt.xlabel("Época")
 plt.ylabel("Precisión en el conjunto")
 plt.legend()
 plt.show()
+
+#Nota: 60
